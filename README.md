@@ -18,4 +18,4 @@ I am not affiliated with nor sponsored by ACCESS CO., LTD., I'm just a long time
 
 Also on the [Google Play Store](http://play.google.com/store/apps/details?id=net.nephiel.graffitiheightfix).
 
-[XDA thread](http://forum.xda-developers.com/xposed/modules/mod-graffiti-height-fix-t2963885).
+XDA thread [here](http://forum.xda-developers.com/xposed/modules/mod-graffiti-height-fix-t2963885).
