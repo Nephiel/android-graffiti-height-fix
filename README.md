@@ -12,7 +12,7 @@ REQUIREMENTS
 ------------
 - Rooted Android device
 - [Xposed Framework](http://forum.xda-developers.com/xposed/xposed-installer-versions-changelog-t2714053)
-- [Graffiti™ 2.0.6](http://play.google.com/store/apps/details?id=com.access_company.graffiti) or [Graffiti™ Pro 1.0.2](http://play.google.com/store/apps/details?id=com.access_company.graffiti_pro) by ACCESS CO., LTD.
+- Graffiti™ 2.0.4 or [2.0.6](http://play.google.com/store/apps/details?id=com.access_company.graffiti), or [Pro 1.0.2](http://play.google.com/store/apps/details?id=com.access_company.graffiti_pro) by ACCESS CO., LTD.
 
 I am not affiliated with nor sponsored by ACCESS CO., LTD., I'm just a long time user of Graffiti since the old Palm days, who still finds it doing a much better job than any other text input method for handheld devices.
 
