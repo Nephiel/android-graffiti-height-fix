@@ -22,6 +22,14 @@ public class GraffitiHeightFix implements IXposedHookLoadPackage {
 	private static final double ASPECT_RATIO_PORTRAIT = 3.448;  // (800/232) (approx.)
 	private static final double ASPECT_RATIO_LANDSCAPE = 2.069; // (480/232) (approx.)
 	
+        // Half-height (232 * 1/2)
+        //private static final double ASPECT_RATIO_PORTRAIT = 6.896;  // (800/116) (approx.)
+        //private static final double ASPECT_RATIO_LANDSCAPE = 4.137; // (480/116) (approx.)
+	
+        // 2/3rds height (232 * 2/3)
+        //private static final double ASPECT_RATIO_PORTRAIT = 5.161;  // (800/155) (approx.)
+	//private static final double ASPECT_RATIO_LANDSCAPE = 3.096; // (480/155) (approx.)
+	
 	public void handleLoadPackage(LoadPackageParam lpparam) throws Throwable {
    		if (!lpparam.packageName.equals(GRAFFITI_PKGNAME))
    	   		if (!lpparam.packageName.equals(GRAFFITI_PRO_PKGNAME))
