@@ -1,6 +1,8 @@
 Graffiti Height Fix
 ===================
 
+**Update (Feb. 2016): ACCESS CO. released an official update for the Graffiti Pro app (v1.0.3) that addresses the height issue. So this module is no longer needed.**
+
 The classic handwriting recognition software from Palm, known as Graffiti™, is still available as a text input method for Android on the Play Store.
 Sadly, the publisher, Access Co., LTD., seems to have abandoned development and hasn't released any updates since 2011.
 
